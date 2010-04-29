@@ -10,7 +10,7 @@ define('STORAGE_PATH', 'php_consumer');
 
 define('CONSUMER_KEY', 'YOUR KEY');
 define('CONSUMER_SECRET', 'YOUR KEY');
-define('APP_ID', 'YOUR APPLICATION ID');$debug = true;
+define('APP_ID', 'YOUR APPLICATION ID');
 
 $debug = true;
 $base_url = "http://www.yoursite.com/complete.php";
